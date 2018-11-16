@@ -1,6 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
-# from django.utils import timezone
+from django.utils import timezone
 
 
 class Unit_Of_Measure(models.Model):
@@ -15,16 +15,17 @@ class Item_Group(models.Model):
     
     def __str__(self):
         return self.item_group_name
+
  
-# class Item(models.Model):
-#     item_name = models.CharField(max_length=150)
-#     unit_of_measure = models.ForeignKey(Unit_Of_Measure, on_delete=models.SET_NULL)
-#     item_group = models.ForeignKey(Item_Group, on_delete=models.CASCADE)
-# 
-# 
-# class Note(models.Model):
-#     content = models.TextField()
-#     item = models.ForeignKey(Item, on_delete=models.CASCADE)
+class Item(models.Model):
+    item_name = models.CharField(max_length=150)
+    unit_of_measure = models.ForeignKey(Unit_Of_Measure, on_delete=models.CASCADE)
+    item_group = models.ForeignKey(Item_Group, on_delete=models.CASCADE)
+
+ 
+class Note(models.Model):
+    content = models.TextField()
+    item = models.ForeignKey(Item, on_delete=models.CASCADE)
  
      
 class Year(models.Model):
@@ -33,13 +34,14 @@ class Year(models.Model):
     
     def __str__(self):
         return str(self.year)
+
  
-# class Plan(models.Model):
-#     item = models.ForeignKey(Item, on_delete=models.SET_NULL)
-#     qty = models.IntegerField()
-#     year = models.ForeignKey(Year, on_delete=models.CASCADE)
-#     date_created = models.DateTimeField(auto_now=True)
-#     date_updated = models.DateTimeField(default=timezone.now)
+class Plan(models.Model):
+    item = models.ForeignKey(Item, on_delete=models.CASCADE)
+    qty = models.IntegerField()
+    year = models.ForeignKey(Year, on_delete=models.CASCADE)
+    date_created = models.DateTimeField(auto_now=True)
+    date_updated = models.DateTimeField(default=timezone.now)
 
 
 class Center(models.Model):
@@ -50,7 +52,12 @@ class Center(models.Model):
     
 # class User_Item_Group(models.Model):
 #     user = models.ForeignKey(User, on_delete=models.CASCADE)
-#     item_group = models.ForeignKey(Item_Group)
+#     item_group = models.ForeignKey(Item_Group, on_delete=models.CASCADE)
+
+
+class Center_Item_Group(models.Model):
+    center = models.ForeignKey(Center, on_delete=models.CASCADE)
+    item_group = models.ForeignKey(Item_Group, on_delete=models.CASCADE)
 
     
 class User_Center(models.Model):

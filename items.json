@@ -1,0 +1,2542 @@
+[
+	{
+	    "item_name": "Askorbinska kiselina (p.a. kvalitet) L (+) , Sadržaj min: 99,7%, Teški metali max: 0,001%",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Borna kiselina (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Bakar II sulfat pentahidrat-(p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Bromkrezol-zeleno (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "4-N, N, dimetilaminobenzaldehid (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Fenoftalein-(p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum bihromat -(p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum hromat-(p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum jodat (p.a kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum jodid -Sadržaj min: 99,5% - (zahtev za kvalitet u prilogu)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum persulfat (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum hidroksid-(listići,ljuspice) (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum hexacijanoferat-trihidrat  (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Limunska kiselina 1-hidrat (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Magnezijum oksid -(Sadržaj ≥98%)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Magnezijum sulfat heptahidrat (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Magnezijum nitrat -(zahtev za kvalitet u prilogu)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Mangan hlorid - tetrahidrat (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Metil crveno (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Natrijum hidroksid-(p.a. kvalitet)",
+	    "unit_of_measure_id": 1,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Natrijum hidroksid - AAS (zahtev za kvalitet u prilogu)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Natrijum hlorid-(zahtev za kvalitet u prilogu)",
+	    "unit_of_measure_id": 1,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Natrijum karbonat bezvodni-(p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Natrijum tiosulfat pentahidrat (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Natrijum oksalat (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "N-(1-Naftil)etilen-diamin dihidrohlorid - NEDA (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "O-tolidin (p.a. kvalitet sadržaj: min. 98%)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Srebro nitrat (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Sulfanilamid-(p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Thorin-(p.a. kvalitet-indikator)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kvarcni pesak, granulacija 0,3-0,8 mm",
+	    "unit_of_measure_id": 1,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "4-diaminobenzaldehid (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Natrijum citrat 2-hidrat (p.a. kvalite)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "n,n dimetil-p-fenilendiamin dihidrohlorid, čistoća 98% (p.a. kvalite)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Merkuri jodid (p.a.)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Saharoza - kvalitet \"Merck\" \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Glicin - kvalitet \"Merck\" \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum hidrogenftalat (p.a. kvalite)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalcijum hlorid anhidrovani (p.a. kvalite)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum nitrat (p.a. kvalite)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Cink acetat 2-hidrat (p.a. kvalite)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Gvožđe III hlorid heksahidrat (p.a. kvalitet)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Kalijum dihidrogen fosfat  (p.a. kvalite)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Glukoza - kvalitet \"Merck\" \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 1
+	},
+	{
+	    "item_name": "Aceton (p.a. kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Amonijum hidroksid (p.a. kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Azotna kiselina - ICP kvalitet (for trace element analysis)*",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "n-Butanol ( p.a. Kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Brom (čistoće >99,5%; sadržaj joda <0,001% )",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Carbon disulfid za BTX - GC kvalitet, čistoće ≥ 99.9%, oslobođen aromatičnih ugljovodonika (fid specifikacija: suma svih BTX komponenata ˂0,5 mg/l  n-Decane)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Petrol  etar-(p.a. Kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Etanol-(p.a. kvalitet) 96 %",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Fosforna kiselina- (p.a. kvalitet) 85 %",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Glicerol –p.a. kvalitet",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Hlorovodonična kiselina – ICP kvalitet (for trace element analysis)*",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Hlorovodonična kiselina - (p.a. kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Sirćetna kiselina glacijalna -ICP kvalitet (for trace element analysis)*",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Sirćetna kiselina glacijalna- (p.a. kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Sumporna kiselina  ICP kvalitet  (for trace element analysis)*",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Sumporna kiselina za nitrate (specifikacija u prilogu)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Sumporna kiselina - (p.a. kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Vodonik peroksid-(p.a. kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Vodonik peroksid- (ICP kvalitet)(for trace element analysis)*",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Tetra chlor etilen za IR",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Trietanolamin-(p.a. kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Perhlorna kiselina ",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Etanol 96%",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Glicerol 99%",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Hloroform",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Dietietar",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Formalin 35%",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Ulje za mikroskopiranje (Imerzion oil za Olimpus)",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Lugol ",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Safranin",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Karbol fuksin za bojenje po Ziel Nielsen",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Metilensko plavo",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Titrival joda 0,05 mol/l",
+	    "unit_of_measure_id": 6,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Benzen - kvalitet za gasnu hromatografiju (GC kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Toluen - kvalitet za gasnu hromatografiju (GC kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Xilen - kvalitet za gasnu hromatografiju (GC kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Etanol - kvalitet za gasnu hromatografiju (GC kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "Terc-butanol -kvalitet za gasnu hromatografiju  (GC kvalitet)",
+	    "unit_of_measure_id": 3,
+	    "item_group_id": 2
+	},
+	{
+	    "item_name": "W 001 - AMONIJAK  14752",
+	    "unit_of_measure_id": 7,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 002 - ANJONSKI SURFAKTANTI 02552",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 003/1 - AZOT UKUPNI    14763",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 003/2 - AZOT UKUPNI    00613",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 004 - CIJANIDI 09701",
+	    "unit_of_measure_id": 9,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 006 - COD 15-300 mg/l  14895",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 006/1 - COD 25-1500 mg/l  14541",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 006/2 - COD 500-10000 mg/l  14555",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 006/3 - COD 4-40 mg/l  14560",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 008- FENOL 14551",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 009- FOSFATI  14848 ",
+	    "unit_of_measure_id": 10,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 010 - GVOŽĐE  14761",
+	    "unit_of_measure_id": 11,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 013 - BSB 0,5 -3000 mg/l    00687",
+	    "unit_of_measure_id": 12,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 014 - BSB  (BPK nutient)  00688",
+	    "unit_of_measure_id": 13,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 015 - KISEONIK  14694",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 017 - CRACK SET 10   14687",
+	    "unit_of_measure_id": 9,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 022 - NITRATI  14773",
+	    "unit_of_measure_id": 9,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 023 - NITRITI  14776",
+	    "unit_of_measure_id": 14,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 025 - SULFATI  14548",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 026 - SULFIDI  14779   veličina pakovanja 220",
+	    "unit_of_measure_id": 47,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 027 - SULFITI  14394",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 028 - TVRDOĆA STALNA    00961",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 029 - REZIDUALNA TVRDOĆA 14683",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 030 - TOC  14878",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 031 - BPK standard  100718",
+	    "unit_of_measure_id": 15,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "W 035 – CHLORINE TEST  (FREE AND TOTAL)  1.00599",
+	    "unit_of_measure_id": 16,
+	    "item_group_id": 3
+	},
+	{
+	    "item_name": "RASTVOR ZA KALIBR. KONDUKTOMETRA 1413 µs/CM",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "PUFER   ph 4,0*",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "PUFER  ph 4,01*",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "PUFER   ph 7,0*",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "PUFER  ph 10,01*",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "STANDARD 1000 NTU",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "STANDARD 10 NTU ",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "STANDARD (za TDS-Total Disolved Salt), Merck ili ekvivalentno",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "Rastvor KCl -3 M (za čuvanje elektroda)",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "ICP  STANDARD MIKS (ICP  multielementarna smeša 20 metala u 5% HNO3- 100mg/l)*",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "PHOTO-CHECK Check solution for fotometers (445/446 nm; 52/525 nm; 690nm) WTW \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 8,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "RASTVOR ZA KALIBR. KONDUKTOMETRA 2764 µs/CM",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "Set standarda za mutnoću (0,02 NTU + 10 NTU+ 1000 NTU)",
+	    "unit_of_measure_id": 17,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "STANDARD ZA ICP - (B-Bor) 1000ppm",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 4
+	},
+	{
+	    "item_name": "Q-fever IgM faza 2 ",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Q-fever IgG faza 1",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Q-fever IgG faza 2",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Coxsackie virus IgG",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Coxsackie virus IgM",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Treponema Pallidum recombinanat",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Herpes Simplex 1 IgG*",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Herpes Simplex 2 IgG*",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Herpes Simplex 1 IgM*",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Herpes Simplex 2 IgM*",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "HCV *",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "HIV *",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Helicobacter pylori IgG",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Helicobacter pylori IgA",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Parvo B19 IgM",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Parvo B19 IgG",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Adeno IgG",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Adeno IgM",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "Morbili IgG",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 5
+	},
+	{
+	    "item_name": "HIV ",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "HbsAg",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "Rubella IgM",
+	    "unit_of_measure_id": 20,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "Rubella IgG ",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "Vidas QCV   ",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "Toxoplasma gondi IgG",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "Toxoplasma gondi IgM",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "HAV IgM",
+	    "unit_of_measure_id": 20,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "ANTI HBC TOTAL",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "Borrelia burgdorferi IgM",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "Borrelia burgdorferi IgG",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "EBV",
+	    "unit_of_measure_id": 20,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "Clostridium dif. tox. AB",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "CMV IgM",
+	    "unit_of_measure_id": 20,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "HCV",
+	    "unit_of_measure_id": 19,
+	    "item_group_id": 6
+	},
+	{
+	    "item_name": "Hemijski indikator za monitoring procesa vlažne sterilizacije*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 7
+	},
+	{
+	    "item_name": "Hemijski indikator za monitoring procesa suve sterilizacije*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 7
+	},
+	{
+	    "item_name": "Tst. za biol. kon. suve steril. 100/1*",
+	    "unit_of_measure_id": 21,
+	    "item_group_id": 7
+	},
+	{
+	    "item_name": "Prospore test 50/1*",
+	    "unit_of_measure_id": 21,
+	    "item_group_id": 7
+	},
+	{
+	    "item_name": "Bowie dick test*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 7
+	},
+	{
+	    "item_name": "Endo agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Hranljivi agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Selenit bujon sa odgovarajućim suplementom",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Andrade laktoza pept. voda (1% laktoze)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Andrade peptonska voda",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "SS agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Podl. za ukup. br. bakterija",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Brilijant zeleni agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Triple sugar iron agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Hranljivi bujon",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Miler Hinton agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Dekstrozni bujon",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Saburo dekstrozni agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Saburo maltozni agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Saburo agar sa hloramfenikolom",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Baird Parker agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Steril egg yolk telurite emulsion",
+	    "unit_of_measure_id": 39,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Brilijant laktoza žučni bujon",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Azid dekstrozni bujon",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Metil red - Voges proskauer",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Simons citratni agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Tioglikolatna podloga sa dekstrozom",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Sulfitni agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Mac Conkey agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Mac Conkey bujon",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Kristijansenova urea sa odgovarajućim suplementom",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "SIM medium",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "King A – Pseudomonas agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Baza za krvni agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "VRBG",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Oxford agar baza sa odgovarajućim suplementima za navedenu količinu",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Oxford agar gotove ploče",
+	    "unit_of_measure_id": 40,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Miler Kaufman tetrationat novobiocin",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Rappaport Vasiliadis bujon sa sojom",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Otaviani Agosti agar",
+	    "unit_of_measure_id": 40,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Otaviani Agosti agar baza sa odgovarajućim suplementima za navedenu količinu",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Fraser bujon",
+	    "unit_of_measure_id": 41,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Fraser polubujon",
+	    "unit_of_measure_id": 42,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Fraser bujon baza sa odgovarajućim suplementima za navedenu količinu",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Dihloran glicerol agar (DG18)",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "McConkey sorbitol agar kompletan za EHEC",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Enterobacter sakazakii agar",
+	    "unit_of_measure_id": 40,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "DRBC",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Clostridium difficile agar",
+	    "unit_of_measure_id": 40,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Natrijumtricitrat",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Mineralno ulje",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Inozit",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Columbia krvni agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Blaser Wang suplement za Columbia agar (za Campylobacter)",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "R2 podloga",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "TCBS",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Tripton soja yeast ekstrakt agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Tripton soja yeast ekstrakt bujon",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Candida chrome agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Fenil alanin",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "MYP agar sa odgovarajućim suplementima za navedenu količinu",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "MYP agar ploče",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Xilosa lizin dezoksiholat agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "D ksiloza",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Slanetz Bartley medium",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "SPS agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Sulfit glukoza gvožđe agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Schaedler agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Thayer -Martin ",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Selektivna podloga za Yesinia agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Eskulin žučni agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "EC bujon",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Litmus mleko",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Telurit",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Eskulin agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Sorbit",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Želatin",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Arginin",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Žučni agar ( 40% žučni agar )",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Moždano srčani bujon",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "King B",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Acetamid bujon",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Mueller Hinton Fastidious agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Polubujon po Frejzeru",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Hromogeni koliformni agar CCA ",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Hemofilus agar ",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "TBX",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "UTI agar",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Glukoza of medium",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Glukoza",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Saharoza",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Manit",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Laktoza",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Dekstroza",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Ramnoza",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Rafinoza",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Puferizovana peptonska voda",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 8
+	},
+	{
+	    "item_name": "Piperacilin+tazobaktam*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ampicilin*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Amoksicilin+klavulon.kis.",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Amikacin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ceftazidim*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ciprofloksacin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Eritromicin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Fucidinska kiselina",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Gentamicin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Hloramfenikol",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Imipenem",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Penicilin*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ofloksacin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Pipemidinska kiselina",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Piperacilin*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Trimetoprim+sulfometak",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Bacitracin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Novobiocin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Optohin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Cefoxitin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Cefepim",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ceftriakson",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Tetraciklin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Meropenem",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Cefahlor",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Vankomicin*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Oksidaza test",
+	    "unit_of_measure_id": 44,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Oxacilin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Klindamicin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Faktor X",
+	    "unit_of_measure_id": 45,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Faktor V",
+	    "unit_of_measure_id": 45,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Faktor X+V",
+	    "unit_of_measure_id": 45,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Tributirin tablete",
+	    "unit_of_measure_id": 45,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Levofloksacin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "ONPG",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Cefaleksin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Cefotaksim",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Cefotaksi + klavulanska kiselina",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ceftazidim + klavulanska kiselina",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Nitrocefin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Nitrofurantoin*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Nalidiksinska kiselina",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Aztreonam*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ertapenem",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Norfloksacin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ampicilin sulbactam*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Linezolid",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ticarcilin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Tigeciklin*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Ticarcilin klavulom kiselina*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Tazobactam piperacilin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Cefepim+klavulonska kiselina",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Pefloksacin ",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Netilmicin   10mg",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Tobramycin   10mg",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Benzylpenicillin E test",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "Nitroxolin",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 9
+	},
+	{
+	    "item_name": "slidex strepto kit",
+	    "unit_of_measure_id": 22,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Kesice za anaerobe",
+	    "unit_of_measure_id": 23,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Kesice za mikroaerofile",
+	    "unit_of_measure_id": 23,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Aglutinišući serumi Shigella sonnei Polivalentan D",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Aglutinišući serumi Shigella flexneri Polivalentan B",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Salmonella sp polivalentni O",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Salmonella sp polivalentni H",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Salmonella sp monovalentni (O9, O4, O7, O8, H gm)",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "E. coli O 157 H 7",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Yersinia aglutinišući serum O3 i  O9",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Liofilizirana plazma kunića",
+	    "unit_of_measure_id": 24,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Antimikogram",
+	    "unit_of_measure_id": 22,
+	    "item_group_id": 10
+	},
+	{
+	    "item_name": "Posude  za urino kulturu*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastični nastavci za automatske pipete  0,5 - 5ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastični nastavci za automatske pipete  1 - 10ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastični nastavci za automatske pipete  10 - 100µl",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastični nastavci za automatske pipete  20 -  200µl",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastični nastavci za automatske pipete  100 - 1000µl",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Vakutajner epruvete sa heparinom*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Špric boce od 500ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Posude za feces",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Ambalaža za uzorkovanje vode 1l sa zapušačem",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Vakutajner epruvete 6ml*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Baloni od 5l",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Injekcijske igle 0,8X40mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Injekcijske igle 0,6X25mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Injekcijske igle 0,5X25mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Špric  od 5ml, trodelne",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Špric 10mL",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Špric 20ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Špric 2mL",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Kese za bag mikser sa filterom*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastične eze od 10 mikrolitara",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Kese za komunalni otpad 500x700 crne",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastični L štapići",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Bebi sistemi za vađenje krvi 0,8x19mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Ependorf epruvetice od 1,5ml*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Žute kese",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Crvene kese",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Zelene kese",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plave kese",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Žute kutije",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Boce sa kapalicom 100ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Transportni brisevi za uzorkovanje sa neutralizatorom 10ml*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Čaša ugaona 600 ml Burkle",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Držač za bocu Burkle",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Teleskopski štap 1,5-3 m Burkle",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Uretralni bris od dakrona, sterilan, pojedinačno pakovan*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Trostruke transfuzijske kese sa natrijum citratom 450+300 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Igla za vakutajner 0,8 x 38 mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastični nastavci za automatske pipete sa filterom za PCR zapremina 1000µl",
+	    "unit_of_measure_id": 25,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Stripovi i tubice za rad za PCR (sa poklopcem)",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Epruvete sa EDTA za testiranje plazme u molekularnoj dijagnostici zapremine 6 ml sa gelom",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Odmerni sudovi od 10 ml (od hemijski otporne plastike, na pr. Od fluoropolimera ili sl.",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastično bure od 10l sa slavinom (3/4\")",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Plastično bure od 120 l - za skladištenje tečnog otpada",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 11
+	},
+	{
+	    "item_name": "Balon sa šlifom  29/32, ravno dno, 250 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 5 ml-niska forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 10 ml - niska forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 50 ml- niska forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 50 ml- visoka forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 100 ml- niska forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 100 ml- visoka forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 150 ml- visoka forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 250 ml- niska forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 600 ml- niska forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 1000ml - niska forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Čaše 3000ml- - niska forma",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Erlenmajer široko grlo 100 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Erlenmajer široko grlo  200 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Erlenmajer široko grlo 300 ml (sa graduacijom na 150 ml)",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Erlenmajer široko grlo  500 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Erlenmajer sa šlifom 29/32  250 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Levak  40 mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Levak  80 mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Levak   10 cm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Porculanski lončići R= 4  h=5 cm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Menzura staklena 25 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Menzura staklena  50 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Menzura staklena  100 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Menzura staklena  500 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Menzura staklena  100 ml sa šlifom",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Normalni sud 10ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Normalni sud 25ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Normalni sud 50ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Normalni sud 100 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Normalni sud 200 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Normalni sud 250 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Normalni sud 500 ml ",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Normalni sud 1000 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Normalni sud 2000 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena graduisana od 1 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena graduisana od 2 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena graduisana od 5 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena graduisana od 10 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena graduisana od 25 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena  trbušasta 5  ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena  trbušasta 10  ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena  trbušasta 20  ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena  trbušasta 25  ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena  trbušasta 50  ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena  trbušasta 100  ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Stakleni štapići od 15cm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Vegeglas R = 6,0 cm;   H = 3 cm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Staklena zdela za uparavanje V=175 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Kivete za belančevine po Kjeldalu (visina: 30 cm; unutrašnji prečnik: 4 cm)",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Staklene boce po Winkleru 100-150 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Tamne flaše sa šlifovanim čepom, 500 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Bezbojne flaše sa šlifovanim čepom, 500 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Kapaljka sa bočicom od 50ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Staklene birete po Pelletu sa bocom od 25 ml, sa samopodešavanjem nule",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Staklene birete po Pelletu sa bocom od 50 ml, sa samopodešavanjem nule",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Sahatna stakla R= 10 cm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Sahatna stakla R= 7 cm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Komplet za vakuum filtraciju (stakleni Bihnerov levak za filtere prečnika 47/50 i guč boca od 1 L sa nastavkom za priključenje vakuum pumpi",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Buchnerova -guč tikvica (boca za odsisavanje) od 1l sa nastavkom za filtre prečnika 47/50mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Kiveta optička  staklena 10 mm Hellma \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Kiveta optička staklena  20 mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Kiveta optička staklena  50 mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Kiveta kvarcna 10 mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Kiveta kvarcna 50 mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Stakleni graduisani levak za odvajanje od 100ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Stakleni graduisani levak za odvajanje od 1000ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Teglice za uzorkovanje namirnica 370 ml sa zatvaračem*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Erlenmajer usko grlo 1000 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Erlenmajer široko grlo 300 ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Stakleni štapići od 15cm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Epruvete bakto 13X130mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Epruvete bakto 16X160mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Epruvete bakto 25X250mm*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Erlenmajer tikvica UG 2000ml",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Durchamove cevčice 8x40",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Durchamove cevčice 6x35",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena graduisana od 1 ml, A klase",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena graduisana od 10 ml, A klase",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pokrovno staklo*",
+	    "unit_of_measure_id": 26,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Predmetna stakla ",
+	    "unit_of_measure_id": 27,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Cevčice staklene 20cm x 0,5cm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Konusne epruvete (centrifuške) zapremine 12 ml, negraduisane",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Pipeta staklena graduisana od 50 ml, A klase",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "L štapići stakleni",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Staklene flaše 1000 ml- bez navoja*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Refluks kuglasti kondenzatori (8 kugli, 400 mm; 29/32 oba nastavka) Alihn kondenzator za Soxhlet (za boce 250 ml)",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Kvarcne čaše, ravna forma ( R = 5,5; h= 10 cm )",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "stakleni balon od 6l sa ravnim dnom",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 12
+	},
+	{
+	    "item_name": "Paus papir u rolnama* ( 500 listova )",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Membran filteri, veličina pora 45 µm  Membran filter, mixed cellulose ester; veličina pora 0.45 µm; nije potrebno da budu sterilni; prečnik: 50 mm Advantec ili Sartorius \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Membran filteri, veličina pora 45 µm  Membran filter, mixed cellulose ester; veličina pora 0.45 µm; potrebno je da budu sterilni; prečnik: 50 mm Advantec ili Sartorius \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Borsilikatni glas fiber filter; za suspendovane materije u vodama (površinske i otpadne); bez bindera; masa filtera 50-100g/m2, gubitak mase slepe test probe filtera  do 0.3mg/filtru; prečnik filtera 50 mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Quartz microfiber filters T293,FT-3-1109-047,diameter 47mm  Sartorius \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Sorbent za organske polutante, kvalitet adsorbenta, veličina čestica i dimenzija cevčice, u saglasnosti sa NIOSH i OSHA specifikacijom* Adsorbent tubes, Supelco - Kat br: 20255-U, SKC - Kat br: 22601  \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Filter papir u tabacima (naboran filter papir) dimenzija 580x580 mm, a gramaže 70 g/m²",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Filter papir kvantitativni bez pepela za AAS , d=125 mm, brza filtracija-crna traka",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Filter papir za AAS, kvantitativni bez pepela, d=125  mm, srednja filtracija-bela traka",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Filter papir za AAS, kvantitativni bez pepela, d=125 mm, spora  filtracija-plava  traka",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Filter papir kvantitativni bez pepela za AAS , d= 90 mm, brza filtracija-crna traka",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Filter papir za AAS, kvantitativni bez pepela, d=90 mm, srednja  filtracija-bela  traka",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Filter papir za AAS, kvantitativni bez pepela, d=90 mm, spora  filtracija-plava  traka",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Čamčići za belančevine, Kjeldahl weighing boats (Kjeldal čamčići za belančevine); 55x10x10 mm Whatman Ref. No.  10 313 032 \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Filter papir 1001/150;  Whatman 1 \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Indikatorske trake pH -Fix 0-14",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "Membran filteri, veličina pora 0,2 µm*  Membran filter, mixed cellulose ester; veličina pora 0.2 µm; prečnik: 50mm",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 13
+	},
+	{
+	    "item_name": "DIF Chlamydia Ag kompletan test",
+	    "unit_of_measure_id": 21,
+	    "item_group_id": 14
+	},
+	{
+	    "item_name": "Strip za kompletnu dijagnostiku Mycoplasma i Ureaplasma",
+	    "unit_of_measure_id": 21,
+	    "item_group_id": 14
+	},
+	{
+	    "item_name": "Colilert-18 za uzorke od 100 ml",
+	    "unit_of_measure_id":46,
+	    "item_group_id": 15
+	},
+	{
+	    "item_name": "Enterolert-E za uzorke od 100 ml",
+	    "unit_of_measure_id":46,
+	    "item_group_id": 15
+	},
+	{
+	    "item_name": "Bočice od 120 ml",
+	    "unit_of_measure_id": 29,
+	    "item_group_id": 15
+	},
+	{
+	    "item_name": "Colilert/Colilert-18 Comparator predispensed in a Quanti-Tray",
+	    "unit_of_measure_id": 17,
+	    "item_group_id": 15
+	},
+	{
+	    "item_name": "Sterilne 97-Well Quanti-Tray/2000",
+	    "unit_of_measure_id": 30,
+	    "item_group_id": 15
+	},
+	{
+	    "item_name": "DNA - Sorb-B - Dna ekstrakcioni kit za uzorke\r\n krvi, plazme, likvora ...",
+	    "unit_of_measure_id": 32,
+	    "item_group_id": 16
+	},
+	{
+	    "item_name": "Coxiella burnetii Real-TM Real Time amplifikacioni kit",
+	    "unit_of_measure_id": 32,
+	    "item_group_id": 16
+	},
+	{
+	    "item_name": "Testovi za identifikaciju Gram negativnih bakterija\r\n(enterobakterije i nefermentujuće bakterije zajedno)",
+	    "unit_of_measure_id": 33,
+	    "item_group_id": 17
+	},
+	{
+	    "item_name": "Testovi za identifikaciju Gram pozitivnih bakterija",
+	    "unit_of_measure_id": 33,
+	    "item_group_id": 17
+	},
+	{
+	    "item_name": "Testovi za identifikaciju anaeroba",
+	    "unit_of_measure_id": 33,
+	    "item_group_id": 17
+	},
+	{
+	    "item_name": "Referentni sojevi ATCC 6/1",
+	    "unit_of_measure_id": 17,
+	    "item_group_id": 18
+	},
+	{
+	    "item_name": "Referentni sojevi ATCC 2/1",
+	    "unit_of_measure_id": 17,
+	    "item_group_id": 18
+	},
+	{
+	    "item_name": "Petri posude R90mm (STERILNA)",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 19
+	},
+	{
+	    "item_name": "Petri posude R55mm (STERILNA)",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 19
+	},
+	{
+	    "item_name": "Komplet za bris sterilan - SPEKTALETA*",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 19
+	},
+	{
+	    "item_name": "Bris - drveni štapić sa namotajem vate, φ2,5x170mm (STERILAN)",
+	    "unit_of_measure_id": 5,
+	    "item_group_id": 19
+	},
+	{
+	    "item_name": "Adjustment solution 10x conc za Euroimmun Anlyzer I-2P",
+	    "unit_of_measure_id": 34,
+	    "item_group_id": 20
+	},
+	{
+	    "item_name": "Grafitni nastavci 1100µl za Euroimmun Anlyzer I-2P",
+	    "unit_of_measure_id": 35,
+	    "item_group_id": 20
+	},
+	{
+	    "item_name": "Grafitni nastavci 300µl za Euroimmun Anlyzer I-2P",
+	    "unit_of_measure_id": 35,
+	    "item_group_id": 20
+	},
+	{
+	    "item_name": "Setupp clean 5x conc za Euroimmun Anlyzer I-2P",
+	    "unit_of_measure_id": 36,
+	    "item_group_id": 20
+	},
+	{
+	    "item_name": "Dilucione ploče za Euroimmun Anlyzer I-2P, \"Nunc\" U 96 PP 2ml",
+	    "unit_of_measure_id": 37,
+	    "item_group_id": 20
+	},
+	{
+	    "item_name": "Cytomegalo virus IgM",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 21
+	},
+	{
+	    "item_name": "Cytomegalo virus IgG",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 21
+	},
+	{
+	    "item_name": "Chlamydia trachomatis IgM",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 21
+	},
+	{
+	    "item_name": "Chlamydia trachomatis IgG",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 21
+	},
+	{
+	    "item_name": "HBsAg",
+	    "unit_of_measure_id": 18,
+	    "item_group_id": 21
+	},
+	{
+	    "item_name": "Referentni materijal za PM 10 - Fine Dust (PM  10   like) ERM (Europan Reference Material) - C   Z120 \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 2,
+	    "item_group_id": 22
+	},
+	{
+	    "item_name": "Referentni materijal za boju vode - 500 Hazena; Merck \"ili odgovarajuće\"",
+	    "unit_of_measure_id": 4,
+	    "item_group_id": 22
+	},
+	{
+	    "item_name": "Komplet za ekstrakciju nukleinskih kiselina (DNK) iz kliničkih uzoraka kao što su epitelne ćelije (cervikalnog kanala, uretre, vagine), pljuvačka, urin i sperma in vitro.\r\nKomplet za izolaciju DNK za 100 uzoraka.\r\nKomplet namenjen za otkrivanje bolesti koje se prenose seksualnim putem treba da sadrži:\r\n   1.pojedinačne tube sa transportnim medijumom (100 kom.)\r\n   2.pojedinačne tube sa reagensom za liziranje koji sadrži uzorak za internu kontrolu (100 kom)\r\n   3.pozitivnu kontrolu I negativnu kontrolu\r\n   4.centrifugiranje do 8000 obrtaja u minuti\r\n   5.komplet treba da zadržava stabilnost na temperarturi na 2-8 C bez potrebe za zamrzavanjem",
+	    "unit_of_measure_id": 46,
+	    "item_group_id": 23
+	},
+	{
+	    "item_name": "Kvalitativni komplet za testiranje I diferencijalno odredjivanje DNK  sa humanim papiloma virusima visokog kancerogenog rizika tipa 16,18,31,33,35,39,45,51,52,56,58, i 59 pomoću metoda RT-PCR\r\n   - Vitro dijagnostički kit za 100 uzoraka\r\n   - Klinički materijal za analizu: strugotina epitelnih ćelija, sperme, sekreta prostate I urina\r\nKomplet treba da sadrži:\r\n   - Pripremljene liofilizovane reakcione smeše u 4 grupe, tako da pokriva sve navedene tipove virusa (Master mix 1,2,3,4) u odvojenim bočicama\r\n   - Rastvor za restituciju\r\nKomplet treba da je kompatibilan sa kompletom za ekstakciju DNK, bez potrebe za dodavanjem IC.\r\nKomplet treba da zadržava stabilnost na temperaturi na 2-8 C bez potrebe za zamrzavanjem.\r\nDetekcija signala na FAM, ROX,JOE I Cy5 kanalima                                                                                              Specifičnost detekcije DNK sa HPV 100%\r\nOsetljivost testa 100%",
+	    "unit_of_measure_id": 46,
+	    "item_group_id": 23
+	},
+	{
+	    "item_name": "Suvi bris, sintetički, sterilan, transportni, dužine 15 cm, za molekularno dijagnostičke metode i mikrobiološke testove i držač brisa se može polomiti na bilo kome mestu.",
+	    "unit_of_measure_id": 17,
+	    "item_group_id": 24
+	},
+	{
+	    "item_name": "Plastika za aparat RT-PCR Sacace 96 Cycler, pakovanje od 125 kom 8-well stripova zapremine 0,2 ml, sa poklopcima",
+	    "unit_of_measure_id": 17,
+	    "item_group_id": 25
+	},
+	{
+	    "item_name": "Plastika za aparat RT-PCR Sacace 96 Cycler, pakovanje od 96 -well ploča zapremine 0,2 ml",
+	    "unit_of_measure_id": 17,
+	    "item_group_id": 25
+	},
+	{
+	    "item_name": "Plastika za aparat RT-PCR Sacace 96 Cycler, optička prijanjajuča folija za 96-well ploču",
+	    "unit_of_measure_id": 17,
+	    "item_group_id": 25
+	}
+]
