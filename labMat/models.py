@@ -1,6 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 from django.utils import timezone
+from django.db.models.deletion import CASCADE
 
 
 class Unit_Of_Measure(models.Model):
@@ -49,10 +50,6 @@ class Center(models.Model):
     
     def __str__(self):
         return self.center_name
-    
-# class User_Item_Group(models.Model):
-#     user = models.ForeignKey(User, on_delete=models.CASCADE)
-#     item_group = models.ForeignKey(Item_Group, on_delete=models.CASCADE)
 
 
 class Center_Item_Group(models.Model):
@@ -66,3 +63,11 @@ class User_Center(models.Model):
     
     def __str__(self):
         return str(self.user) + " - " + str(self.center)
+
+
+class Profile(models.Model):
+    user = models.OneToOneField(User, on_delete=CASCADE)
+    image = models.ImageField(default='default.jpg', upload_to='profile_pics')
+    
+    def __str__(self):
+        return f'{self.user.username} Profile'

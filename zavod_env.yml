@@ -1,0 +1,16 @@
+name: zavod_env
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - certifi=2018.10.15=py37_0
+  - django=2.1.2=py37_0
+  - pip=18.1=py37_0
+  - python=3.7.1=h33f27b4_4
+  - pytz=2018.7=py37_0
+  - setuptools=40.5.0=py37_0
+  - vc=14.1=h21ff451_3
+  - vs2015_runtime=15.5.2=3
+  - wheel=0.32.2=py37_0
+  - wincertstore=0.2=py37_0
+prefix: C:\Users\luka\Miniconda3\envs\zavod_env
