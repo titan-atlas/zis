@@ -3,5 +3,5 @@ from django.contrib.auth.decorators import login_required
 
 
 @login_required
-def home(request):
-    return render(request, 'labMat/home.html', {'title': 'Home Page'})
+def profile(request):
+    return render(request, 'users/profile.html')
