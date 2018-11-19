@@ -1,5 +1,6 @@
 {% extends "labMat/base.html" %}
 {% load crispy_forms_tags %}
+
 {% block content %}
     <div class="content-section">
       <div class="media">
@@ -12,12 +13,12 @@
       <form method="POST" enctype="multipart/form-data">
           {% csrf_token %}
           <fieldset class="form-group">
-              <legend class="border-bottom mb-4">Opsti podaci</legend>
+              <legend class="border-bottom mb-4">Opšti podaci</legend>
               {{ user_update_form|crispy }}
               {{ profile_update_form|crispy }}
           </fieldset>
           <div class="form-group">
-              <button class="btn btn-outline-info" type="submit">Sacuvaj</button>
+              <button class="btn btn-outline-info" type="submit">Sačuvaj</button>
           </div>
       </form>
     </div>

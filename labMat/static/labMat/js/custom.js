@@ -58,4 +58,9 @@ jQuery(function ($) {
         $(".sidebar-content").addClass("desktop");
 
     }
+    
+    $(document).ready(function() {
+        $('#example').DataTable();
+    } );
 });
+

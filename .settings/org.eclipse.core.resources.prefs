@@ -1,2 +1,5 @@
 eclipse.preferences.version=1
+encoding//labMat/templates/labMat/home.html=UTF-8
+encoding//users/templates/users/profile.html=UTF-8
+encoding//users/views.py=UTF-8
 encoding/items.json=UTF-8

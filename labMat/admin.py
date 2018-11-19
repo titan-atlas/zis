@@ -1,5 +1,5 @@
 from django.contrib import admin
-from labMat.models import Center, User_Center, Unit_Of_Measure, Item_Group, Year, Item, Plan, Center_Item_Group, Note
+from labMat.models import Center, Unit_Of_Measure, Item_Group, Year, Item, Plan, Center_Item_Group, Note
 
 
 class CenterAdmin(admin.ModelAdmin):
@@ -25,7 +25,6 @@ class ItemAdmin(admin.ModelAdmin):
 
 
 admin.site.register(Center, CenterAdmin)
-admin.site.register(User_Center)
 admin.site.register(Unit_Of_Measure, UnitOfMeasureAdmin)
 admin.site.register(Item_Group, ItemGroupsAdmin)
 admin.site.register(Year, YearAdmin)

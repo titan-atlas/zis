@@ -1,5 +1,4 @@
 from django.db import models
-from django.contrib.auth.models import User
 from django.utils import timezone
 
 
@@ -54,11 +53,3 @@ class Center(models.Model):
 class Center_Item_Group(models.Model):
     center = models.ForeignKey(Center, on_delete=models.CASCADE)
     item_group = models.ForeignKey(Item_Group, on_delete=models.CASCADE)
-
-    
-class User_Center(models.Model):
-    center = models.ForeignKey(Center, on_delete=models.CASCADE)
-    user = models.ForeignKey(User, on_delete=models.CASCADE)
-    
-    def __str__(self):
-        return str(self.user) + " - " + str(self.center)

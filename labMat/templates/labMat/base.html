@@ -17,6 +17,10 @@
 	<!-- Malihu custom scrollbar plugin -->
     <link rel="stylesheet" href="//malihu.github.io/custom-scrollbar/jquery.mCustomScrollbar.min.css">
     
+	<!-- Datatables CSS -->
+	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+	
+    
 	<!-- Custom CSS -->
     <link rel="stylesheet" href="{% static 'labMat/css/custom.css' %}">
     <link rel="stylesheet" href="{% static 'labMat/css/custom-themes.css' %}">
@@ -53,7 +57,7 @@
                         <span class="user-name">{{ user.first_name }}
                             <strong>{{ user.last_name }}</strong>
                         </span>
-                        <span class="user-role">Administrator</span>
+                        <span class="user-role">{{ user.user_center.center }}</span>
                         <span class="user-status">
                             <i class="fa fa-circle"></i>
                             <span>Online</span>
@@ -72,7 +76,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+				</div>
                 <!-- sidebar-search  -->
                 <div class="sidebar-menu">
                     <ul>
@@ -222,9 +226,9 @@
                         <i class="fa fa-cog"></i>
                     </a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuMessage">
-                        <a class="dropdown-item" href="{% url 'profile' %}">My profile</a>
-                        <a class="dropdown-item" href="#">Help</a>
-                        <a class="dropdown-item" href="#">Setting</a>
+                        <a class="dropdown-item" href="{% url 'profile' %}">Moj nalog</a>
+                        <a class="dropdown-item" href="#">Pomoć</a>
+                        <a class="dropdown-item" href="#">Podešavanja</a>
                     </div>
                 </div>
                 <div>
@@ -262,6 +266,10 @@
 	
 	<!-- Malihu custom scrollbar plugin -->
     <script src="//malihu.github.io/custom-scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+    
+	<!-- Datatables JavaScript -->
+	<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+	<script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
     
 	<!-- Custom JavaScript -->
     <script src="{% static 'labMat/js/custom.js' %}"></script>

@@ -15,7 +15,7 @@ def profile(request):
         if user_update_form.is_valid() and profile_update_form.is_valid():
             user_update_form.save()
             profile_update_form.save()
-            messages.success(request, f'Vas profil je azuriran!')
+            messages.success(request, f'Vaš profil je ažuriran!')
             return redirect('profile')
     else:
         user_update_form = UserUpdateForm(instance=request.user)
