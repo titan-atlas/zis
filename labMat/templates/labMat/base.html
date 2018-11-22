@@ -16,14 +16,12 @@
     
 	<!-- Malihu custom scrollbar plugin -->
     <link rel="stylesheet" href="//malihu.github.io/custom-scrollbar/jquery.mCustomScrollbar.min.css">
-    
-	<!-- Datatables CSS -->
-	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-	
-    
+        
 	<!-- Custom CSS -->
     <link rel="stylesheet" href="{% static 'labMat/css/custom.css' %}">
     <link rel="stylesheet" href="{% static 'labMat/css/custom-themes.css' %}">
+    
+    {% block css %}{% endblock css %}
     
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/ico" href="{% static 'labMat/img/favicon.ico' %}" />
@@ -267,10 +265,8 @@
 	<!-- Malihu custom scrollbar plugin -->
     <script src="//malihu.github.io/custom-scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
     
-	<!-- Datatables JavaScript -->
-	<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-	<script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-    
+    {% block javascript %}{% endblock javascript %}
+        
 	<!-- Custom JavaScript -->
     <script src="{% static 'labMat/js/custom.js' %}"></script>
 </body>
