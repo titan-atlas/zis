@@ -11,6 +11,7 @@ class Unit_Of_Measure(models.Model):
      
 class Item_Group(models.Model):
     item_group_name = models.CharField(max_length=100)
+    slug = models.SlugField(max_length=200, default='slug')
     
     def __str__(self):
         return self.item_group_name
@@ -53,3 +54,6 @@ class Center(models.Model):
 class Center_Item_Group(models.Model):
     center = models.ForeignKey(Center, on_delete=models.CASCADE)
     item_group = models.ForeignKey(Item_Group, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return str(self.center) + " - " + str(self.item_group)

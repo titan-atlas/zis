@@ -84,22 +84,21 @@
                         <li class="sidebar-dropdown">
                             <a href="#">
                                 <i class="fa fa-tachometer-alt"></i>
-                                <span>Dashboard</span>
-                                <span class="badge badge-pill badge-danger">New</span>
+                                <span>Partije</span>
                             </a>
                             <div class="sidebar-submenu">
                                 <ul>
+                                	{% for item in menu_items %}
                                     <li>
-                                        <a href="#">Dashboard 1
-                                            <span class="badge badge-pill badge-success">Pro</span>
-                                        </a>
+                                        <a href="#">{{ item.item_group_name }}</a>
                                     </li>
-                                    <li>
-                                        <a href="#">Dashboard 2</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Dashboard 3</a>
-                                    </li>
+                                    {% endfor %}
+<!--                                     <li> -->
+<!--                                         <a href="#">Dashboard 2</a> -->
+<!--                                     </li> -->
+<!--                                     <li> -->
+<!--                                         <a href="#">Dashboard 3</a> -->
+<!--                                     </li> -->
                                 </ul>
                             </div>
                         </li>
